@@ -39,6 +39,7 @@ open index.html    # Mac
 That’s it! No server setup required 🚀
 
 ## 📂 Project Structure
+```
 bash
 Copy code
 FingerFlow/
@@ -46,8 +47,12 @@ FingerFlow/
 │── style.css         # Styling
 │── script.js         # Game logic
 │── assets/           # (Optional) Images, sounds, icons
-📸 Screenshots (Optional)
-Add screenshots of your game interface here (typing screen, results, etc.)
+```
+## 📸 Screenshots 
+
+<img width="1833" height="818" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/b5a4c224-1e94-463b-b627-8e4484634414" />
+<img width="1906" height="825" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/b270ea3f-8bfe-4ef6-baa1-86fa4a292b6e" />
+
 
 ## 🤝 Contributing
 Contributions are welcome!
